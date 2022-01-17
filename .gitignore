@@ -1,1 +1,80 @@
+N° Fichiers compilés / optimisés / DLL
+__pycache__/
+*.py[morue]
+
+N° Extensions C
+*.so
+
+N° Distribution / emballage
+venv/
+poubelle/
+construire/
+développer-oeufs/
+dist/
+oeuf/
+pièces/
+sdiste/
+var/
+*.bak
+*.egg-info/
+.installé.cfg
+*.oeuf
+
+N° Journaux du programme d’installation
+pip-log.txt
+pip-delete-this-directory.txt
+
+N° Rapports de test unitaire / couverture
+.tox/
+.couverture
+.cache
+tests de nez.xml
+couverture.xml
+
+N° Traductions
+*.mo
+
+N° Monsieur Développeur
+.mr.developer.cfg
+.projet
+.pydevproject
+
+N° Corde
+.ropeproject
+
+N° Documentation sur Sphinx
+docs/_build/
+docs/autogen/
+
+N° Journaux
+*.log
+
+N° Fichiers Gedit
+*~
+
+N° Enregistrer des parties
+tuxemon/économise/
+
+N° Fichier Windows
+Pouces.db
+
+N° PyCharm
+*.iml
+.idée/*
+
+N° Éric6
+*.epj
+/__init__.py
+.eric6projet
+
+N° KDevelop
+le . *.kate-swp
+*.kdev4
+/.kdev4
+
+N° Mac OS
+*. DS_Store
+mods/tuxemon/cartes/~$Map Helper.xlsx
+mods/tuxemon/db/rencontre/~$JSON-o-matic pour Rencontres.ods
+/.mypy_cache/ 
  
